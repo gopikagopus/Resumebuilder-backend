@@ -1,0 +1,69 @@
+{
+  "all-resumes": [
+    {
+      "id": "1334",
+      "profesionalData": {
+        "name": "athul k dinu",
+        "jobTitle": "MEARN STACK DEVELOPER",
+        "location": "KAKKANAD",
+        "email": "athulkdinu@gmail.com",
+        "phone": "9497870298",
+        "gitHub": "athulkdinu@github.in",
+        "linkedIn": "athulkdinu@likedin.in",
+        "portfolio": "athul@portfolio"
+      },
+      "educationData": {
+        "course": "B.tech compueter science",
+        "college": "college of Engineering kalloppara",
+        "university": "ktu",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "maern stack developer",
+        "company": "luminar",
+        "jobLocation": "kakkand",
+        "duration": "6 month"
+      },
+      "skill": [
+        "CSS",
+        "HTML",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "summary": "iam a mearn developer"
+    },
+    {
+      "id": "1335",
+      "profesionalData": {
+        "name": "arya p",
+        "jobTitle": "FRONTEND DEVELOPER",
+        "location": "KOCHI",
+        "email": "aryap@gmail.com",
+        "phone": "9876543210",
+        "gitHub": "aryap@github.in",
+        "linkedIn": "aryap@linkedin.in",
+        "portfolio": "arya@portfolio"
+      },
+      "educationData": {
+        "course": "B.tech Information Technology",
+        "college": "college of Engineering trivandrum",
+        "university": "ktu",
+        "year": "2024"
+      },
+      "experience": {
+        "jobRole": "frontend developer",
+        "company": "techzest",
+        "jobLocation": "kochi",
+        "duration": "1 year"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "REACT",
+        "TAILWIND",
+        "GIT"
+      ],
+      "summary": "Passionate frontend developer with strong design and coding skills."
+    }
+  ]
+}
